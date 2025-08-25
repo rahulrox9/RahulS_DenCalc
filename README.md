@@ -24,7 +24,7 @@ Results will be written to:
 ## Data
 - `Average_Phase_Comp.csv` : Major element oxide compositions of phases
 - `OPAM_HS24_PT.csv` : Temperature (°C) and pressure (kbar) conditions
-- `Modal_Propn.csv` : Modal proportions of the samples from point counting
+- `Modal_Propn.csv` : Modal proportions of the samples (excluding vesicles and normalised) from point counting
 
 ## Outputs 
 - `exports/Density.csv`: Contains computed densities for liquid, matrix, minerals, and bulk nodules
