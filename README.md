@@ -3,9 +3,9 @@
 This project computes the density of carrier melt (scoria matrix glass), interstitial melt (nodule matrix), and mineral phases (plagioclase, olivine, clinopyroxene) in Icelandic gabbroic nodules.
 Using oxide compositions, thermodynamic corrections, and modal proportions, it estimates both phase-specific and bulk nodule densities.
 
-Author: Rahul Subbaraman
-Affiliation: University of Manchester
-Email: rahul.subbaraman@manchester.ac.uk
+Author: Rahul Subbaraman <br>
+Affiliation: University of Manchester <br>
+Email: rahul.subbaraman@manchester.ac.uk <br>
 Date: 25-08-2025
 
 ##How to Use
