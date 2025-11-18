@@ -1,4 +1,4 @@
-# Density_Calculator
+# DenCalc: Density Calculator
 **Density Calculations of Icelandic Gabbroic Nodule Samples**
 This project computes the density of carrier melt (scoria matrix glass), interstitial melt (nodule matrix), and mineral phases (plagioclase, olivine, clinopyroxene) in Icelandic gabbroic nodules.
 Using oxide compositions, thermodynamic corrections, and modal proportions, it estimates both phase-specific and bulk nodule densities.
