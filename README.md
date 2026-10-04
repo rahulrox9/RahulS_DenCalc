@@ -53,7 +53,7 @@ Results will be written to:
    - `exports/Density.csv` contains liquid, matrix, mineral, and bulk nodule densities
 
 ## Notes
-- H2O estimation method based on: Subbaraman et al., under revision, EPSL
+- H2O estimation method based on: Subbaraman et al., (2026) EPSL
 - Tested with Python 3.12.7
 
 License
